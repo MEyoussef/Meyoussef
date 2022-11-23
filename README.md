@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h2 align="center">Hi 👋, I'm Youssef Mohamed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meyoussef&label=Profile%20views&color=0e75b6&style=flat" alt="meyoussef" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meyoussef" alt="meyoussef" /></a> </p>
+<h4 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🌱 I’m currently practicing javascript **Vanilla Js**
-
 - 👨‍💻 All of my projects are available at [Portfolio.com](Portfolio.com)
-
-- 📫 How to reach me **YoussefMohamedElgohre1@gmail.com**
-
+- 📫 How to reach me via **<a href ="email:YoussefMohamedElgohre1@gmail.com">Mail</a>**
 - 📄 Know about my experience [resumeLink](resumeLink)
 
 <h3 align="left">Connect with me:</h3>
