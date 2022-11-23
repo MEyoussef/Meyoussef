@@ -3,8 +3,11 @@
 <h4 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🌱 I’m currently practicing javascript **Vanilla Js**
+
 - 👨‍💻 All of my projects are available at [Portfolio.com](Portfolio.com)
-- 📫 How to reach me via **<a href ="email:YoussefMohamedElgohre1@gmail.com">Mail</a>**
+
+- 📫 How to reach me via **<a href ="mail: YoussefMohamedElgohre1@gmail.com">Mail</a>**
+
 - 📄 Know about my experience [resumeLink](resumeLink)
 
 <h3 align="left">Connect with me:</h3>
