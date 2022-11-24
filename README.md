@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyoussef&label=Profile%20views&color=0e75b6&style=flat" alt="meyoussef" /> </p>
 
-- 🌱 I’m currently practicing JavaScript **Vanilla Js**
+- 🌱 I’m currently practicing JavaScript (**Vanilla Js**)
 
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
-- 📫 How to reach me **<a href = "mailto:YoussefMohamedElgohre1@gmail.com">mail</a>**
+- 📫 How to reach me (**<a href = "mailto:YoussefMohamedElgohre1@gmail.com">mail</a>**)
 
 - 📄 Know about my experiences [Resume.link](Resume.link)
 
