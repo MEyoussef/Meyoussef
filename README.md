@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋, I'm Youssef Mohamed</h1>
 <h3 align="center">وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ</h3>
+
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding gif">
 <h3 align="center">A frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyoussef&label=Profile%20views&color=0e75b6&style=flat" alt="meyoussef" /> </p>
