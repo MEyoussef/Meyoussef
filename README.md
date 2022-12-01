@@ -3,7 +3,7 @@
 
 <hr>
 
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding gif">
+<img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding gif">
 <h3 align="center">A frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyoussef&label=Profile%20views&color=0e75b6&style=flat" alt="meyoussef" /> </p>
