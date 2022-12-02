@@ -1,6 +1,7 @@
 <h3 align="center">Hi 👋, I'm Youssef Mohamed</h1>
 <h3 align="center">وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ</h3>
 <h3 align="center">قال رسول الله صلى الله عليه وسلم : إن الله يحب إذا عمل أحدكم عملا أن يتقنه</h3>
+<h3 align="center">The Prophet of God, Muhammad, may God bless him and grant him peace says: God loves if one of you does a job that he masters it</h3>
 
 <hr>
 
