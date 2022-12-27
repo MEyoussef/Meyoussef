@@ -1,9 +1,4 @@
 <h3 align="center">Hi 👋, I'm Youssef Mohamed</h1>
-<h3 align="center">وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ</h3>
-<h3 align="center">قال رسول الله صلى الله عليه وسلم : إن الله يحب إذا عمل أحدكم عملا أن يتقنه</h3>
-<h3 align="center">The Prophet of God, Muhammad, may God bless him and grant him peace says: God loves if one of you does a job that he masters it</h3>
-
-<hr>
 
 <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding gif">
 <h3 align="center">A frontend developer from Egypt</h3>
