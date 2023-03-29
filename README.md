@@ -1,17 +1,9 @@
-<h3 align="center">Hi 👋 i'm Youssef Mohamed</h1>
+<h3 align="center">Hi 👋 i'm Youssef</h1>
 
 <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding gif">
-<h3 align="center">A frontend developer from Egypt</h3>
+<h3 align="center">a frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyoussef&label=Profile%20views&color=0e75b6&style=flat" alt="meyoussef" /> </p>
-
-- 🌱 I’m currently practicing JavaScript (**Vanilla Js**)
-
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
-
-- 📫 How to reach me (**<a href = "mailto:YoussefMohamedElgohre1@gmail.com">mail</a>**)
-
-- 📄 Know about my experiences [Resume.link](Resume.link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
