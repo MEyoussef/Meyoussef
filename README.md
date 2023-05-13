@@ -5,8 +5,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <h3 align="left">-Skills</h3>
 <p>1. Html 5</p>
 <P>2. Css 3</p>
