@@ -10,4 +10,3 @@
 <p>1. Html 5</p>
 <P>2. Css 3</p>
 <P>3. Javascript</p>
-<p>4. typescript</p>
