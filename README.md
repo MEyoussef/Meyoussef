@@ -6,6 +6,6 @@
 
 <h4>
   <bold>
-    • Currently Learning C++
+    • Currently Looking for bugs
   </bold>
 </h4>
